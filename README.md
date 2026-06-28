@@ -36,7 +36,7 @@ Make sure you have **Python 3.x** installed on your system.
 1. Clone this repository to your local machine.
 
 2. Install the required external library (Pygame):
-pip install -r requirements.txt
+ `pip install -r requirements.txt`
 
 3. Launch the game by executing the main script:
-python main.py
+ `python main.py`
